@@ -1,0 +1,16 @@
+Order Date,Region,Product,Sales,Profit,Quantity
+2024-01-05,North,Laptop,1200,150,2
+2024-01-06,South,Monitor,300,40,1
+2024-01-06,South,Monitor,300,40,1
+2024-01-10,East,Keyboard,50,10,3
+2024-01-12,West,Laptop,1250,,2
+2024-01-15,North,Mouse,25,5,5
+2024-01-18,South,Laptop,,140,2
+2024-01-20,East,Monitor,310,45,1
+2024-01-22,West,Keyboard,45,8,2
+2024-01-25,North,Laptop,15000,180,2
+2024-01-28,South,Mouse,22,4,4
+2024-02-02,East,Laptop,1300,160,2
+2024-02-05,West,Monitor,290,38,1
+2024-02-08,North,Keyboard,48,9,3
+2024-02-10,South,Mouse,20,3,5

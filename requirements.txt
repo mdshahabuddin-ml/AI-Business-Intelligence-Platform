@@ -1,0 +1,103 @@
+# ==========================================
+# AI Business Intelligence Platform
+# requirements.txt
+# ==========================================
+
+# FastAPI Backend
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+
+# Authentication
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt
+
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
+
+# Data Processing
+pandas
+numpy
+scipy
+polars
+pyarrow
+openpyxl
+xlrd
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+joblib
+
+# Time Series Forecasting
+prophet
+statsmodels
+
+# Deep Learning
+tensorflow
+torch
+torchvision
+
+# Explainable AI
+shap
+lime
+
+# Visualization
+matplotlib
+plotly
+missingno
+
+# AI / LLM
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+google-generativeai
+
+# RAG
+chromadb
+sentence-transformers
+faiss-cpu
+tiktoken
+
+# Document Processing
+pypdf
+python-docx
+
+# Report Generation
+reportlab
+python-pptx
+xlsxwriter
+
+# HTTP Requests
+requests
+httpx
+
+# Environment Variables
+python-dotenv
+
+# Logging
+loguru
+
+# Utilities
+tqdm
+
+# Testing
+pytest
+pytest-asyncio
+
+# Code Quality
+black
+flake8
+isort
+
+# Optional (Jupyter Development)
+jupyter
+notebook
+ipykernel

@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+app.db
+storage/uploads/*
+!storage/uploads/sample_sales.csv
+storage/processed/*
+node_modules/
+*.egg-info/
+.pytest_cache/
